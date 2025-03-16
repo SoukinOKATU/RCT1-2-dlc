@@ -1,24 +1,23 @@
 # RCT1-2-dlc
 
-This is an archive of downloadable scenarios for the original  Roller Coaster Tycoon 1 & 2
+This is an archive of downloadable scenarios for the original versions of RollerCoaster Tycoon 1 and 2.
 
-The original official website and sharing website of the roller coaster tycoon have been closed. This is for archiving purposes.
+Since the official website and original sharing platforms are no longer available, this serves solely as an archive.
 
-Copyright is owned by Atari and Chris Sawyer.
+All copyrights belong to Atari and Chris Sawyer.
 
-How to install：
+Usage Instructions:
 
-If you use OpenRCT2：
+For OpenRCT2 users:
+Copy all folders to C:\Users\your username\Documents\OpenRCT2
 
-Copy all folders to C:\Users\USER\Documents\OpenRCT2
+For original RollerCoaster Tycoon 1 & 2 users:
 
-If you use original Roller Coaster Tycoon 1 & 2：
+Copy all .SC4 files to the scenario folder in your RollerCoaster Tycoon 1 installation directory.
 
-Copy all .SC4 files in scenario folder to RCT1 install Folder\scenario
+Copy Panda World.SC6 to the scenario folder in your RollerCoaster Tycoon 2 installation directory.
 
-Copy Panda World.SC6 to RCT2 install Folder\scenario
-
-Copy all .DAT files in object folder to RCT2 install Folder\ObjData
+Copy all .DAT files to the ObjData folder in your RollerCoaster Tycoon 2 installation directory.
 
 
 
@@ -32,7 +31,7 @@ Copy all .DAT files in object folder to RCT2 install Folder\ObjData
 
 如果你使用OpenRCT2：
 
-复制所有文件夹至C:\Users\用户名\Documents\OpenRCT2
+复制所有文件夹至C:\Users\你的用户名\Documents\OpenRCT2
 
 如果你使用原始版本的过山车大亨1和2：
 
